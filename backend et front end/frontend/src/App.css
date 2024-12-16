@@ -1,0 +1,44 @@
+:root {
+  --background-color: #121212; 
+  --card-background: #1e1e1e; 
+  --text-color: #e0e0e0;    
+  --primary-color: #007bff;  
+  --primary-hover: #0056b3; 
+  --danger-color: #dc3545;   
+  --success-color: #28a745; 
+  --border-color: #333;     
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--background-color); 
+  color: var(--text-color);                 
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--primary-hover);
+}
+
+button {
+  cursor: pointer;
+}
+
+input,
+textarea {
+  background-color: var(--card-background);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 4px var(--primary-color);
+}

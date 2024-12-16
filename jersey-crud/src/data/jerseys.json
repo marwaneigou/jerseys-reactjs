@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Real madrid",
+      "description": "Official jersey of Real madrid",
+      "color": "white",
+      "image": "https://www.tudnfanshop.com/cdn/shop/files/PwfJDC2S_WHT_52f6b0c5-15d5-4520-85e1-88a417d586e8.png?v=1726762716&width=1500"
+    },
+    {
+      "id": 2,
+      "name": "barcelona",
+      "description": "Official jersey of barcelona",
+      "color": "Blue",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Lp9N9MDfhm5dZfu4VERLyjIuSbVuSgDHbg&s"
+    },
+    {
+      "id": 3,
+      "name": "Juventus",
+      "description": "Official jersey of Juventus",
+      "color": "Black",
+      "image": "https://store.juventus.com/images/juventus/products/small/JU23A05_1.webp"
+    },
+    {
+      "id": 4,
+      "name": "Manchester United",
+      "description": "Official jersey of Manchester United",
+      "color": "Red",
+      "image": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/421ac8112b8648f89825ae6f00d53e87_9366/H13889_01_laydown.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bayern Munich",
+      "description": "Official jersey of Bayern Munich",
+      "color": "Red",
+      "image": "https://img.fcbayern.com/image/upload/f_auto,q_auto/eCommerce/produkte/53263"
+    },
+    {
+      "id": 6,
+      "name": "Liverpool",
+      "description": "Official jersey of Liverpool",
+      "color": "Red",
+      "image": "https://www.tudnfanshop.com/cdn/shop/files/eKkAf8nf_GWC.png?v=1726764416&width=1500"
+    }
+ ]
+  
